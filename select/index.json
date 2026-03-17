@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "The Big Goodbye",
+  "base_artist": "AJR",
+  "createdAt": "2026-03-17T11:56:58.311823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/01_The_Big_Goodbye_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Ronan Keating feat. Robbie Williams",
+      "has_synced": true,
+      "path": "select/02_The_Big_Goodbye_Ronan_Keating_feat._Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Ronan Keating & Robbie Williams",
+      "has_synced": true,
+      "path": "select/03_The_Big_Goodbye_Ronan_Keating_&_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/04_The_Big_Goodbye_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Big Goodbye feat Robbie Williams",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/05_The_Big_Goodbye_feat_Robbie_Williams_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Ronan Keating with Robbie Williams",
+      "has_synced": true,
+      "path": "select/06_The_Big_Goodbye_Ronan_Keating_with_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/07_The_Big_Goodbye_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Big Goodbye (with Robbie Williams)",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/08_The_Big_Goodbye_(with_Robbie_Williams)_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "TTRRUUCES",
+      "has_synced": true,
+      "path": "select/09_The_Big_Goodbye_TTRRUUCES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "Cooper Alice",
+      "has_synced": true,
+      "path": "select/10_The_Big_Goodbye_Cooper_Alice.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Big Goodbye",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/11_The_Big_Goodbye_AJR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Big Goodbye (Paused)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/12_The_Big_Goodbye_(Paused)_AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Big Goodbye",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_The_Big_Goodbye_AJR.txt"
+    }
+  ]
+}
